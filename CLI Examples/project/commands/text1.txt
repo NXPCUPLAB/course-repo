@@ -3,5 +3,5 @@ I have appended a line!
 This is file_1
 This is file_3
 I can freely edit the file
-Let's see what wc will give us! 
+Let's see what wc will give us!
 We have 7 lines, 35 words!
